@@ -25,3 +25,5 @@ Data of tables are stored in *. txt files (tabular format, binary charset). The 
 * Данные таблиц хранятся в *.txt файлах (tabular format, binary charset). Названия файлов совпадают с названиями таблиц.
 * Описание таблиц хранится в двух *.sql файлах (UTF8 charset). dump1.sql — структура таблиц, функции и процедуры; dump1.sql — триггеры.
 * Экспорт таблиц InnoDB выполняется в одной транзакции. Это обеспечивает целостность данных и не блокирует работу базы данных во время экспорта.
+
+Automatically exported from https://code.google.com/p/mysql-backup/
