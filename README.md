@@ -12,7 +12,7 @@ Data of tables are stored in *. txt files (tabular format, binary charset). The 
 * Description of tables stored in two *. sql files (UTF8 charset). dump1.sql — table structure, functions and procedures; dump1.sql — triggers.
 * Export InnoDB tables is performed in a single transaction. This ensures data integrity and does not lock the database during export.
 
-# MySQL убравление базой данных — очистка, импорт и экспорт данных как резервная копия
+# MySQL управление базой данных — очистка, импорт и экспорт данных как резервная копия
 
 ## Назначение
 
